@@ -1,5 +1,5 @@
 ---
 title: Welcome to my experimental blog!
 ---
-- [ ] ukol A
-- [ ] ukol B
+[ ]  ukol A
+[ ]  ukol B
